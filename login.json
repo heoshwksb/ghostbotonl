@@ -1,4 +1,4 @@
 {
     "valid_keys": ["12345678", "KEY2", "KEY3"],
-    "invalid_key_redirect_url": "https://example.com/invalid_key"
+    "invalid_key_redirect_url": "https://cuty.io/dashboard"
 }
