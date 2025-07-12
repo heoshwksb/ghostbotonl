@@ -1,4 +1,4 @@
 {
-    "valid_keys": ["12345678", "KEY2", "KEY3"],
-    "invalid_key_redirect_url": "https://cuty.io/dashboard"
+    "valid_keys": ["TEST123", "GHOSTVIP"],
+    "invalid_key_redirect_url": "https://www.google.com"
 }
